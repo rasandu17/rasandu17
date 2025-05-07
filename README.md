@@ -1,23 +1,7 @@
-<div align="center">
-  
-# `Hello, World!`
+# ✦ Hello, World! ✦
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rasandu&fontSize=80&animation=fadeIn" />
 
-<p align="right">
-  I'm Ravindu
-</p>
+### Building digital experiences one line at a time.
 
-<p align="center">
-  ━━━━━━━━━━━━━━━━━━━━
-</p>
-
-<p align="left">
-  Creating things that matter.
-</p>
-
-<div align="center">
-  
-  `explorer` | `builder` | `dreamer`
-  
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
