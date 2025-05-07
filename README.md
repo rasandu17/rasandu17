@@ -1,17 +1,28 @@
-# Hello, World! 👋 I'm Ravindu
+<h1 align="center">Hello, World! ✨</h1>
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/rasandu17/count.svg)
+  <img src="https://i.imgur.com/U2xAIuj.gif" alt="Wave" width="24px"> I'm Ravindu
   
-  <img src="/api/placeholder/800/300" alt="Code Banner" width="70%" />
+  <br><br>
   
-  **Sometimes I create things. Sometimes they work.**
+  <p>Welcome to my digital garden 🌱</p>
   
-</div>
-
----
-
-<div align="center">
-  <i>"The best error message is the one that never shows up." — Thomas Fuchs</i>
+  ```
+  Not everything has to be a project.
+  Sometimes it's just exploration.
+  ```
+  
+  <br>
+  
+  <p>Currently wandering through ideas, documenting the journey.</p>
+  
+  <br>
+  
+  <img src="https://i.imgur.com/M6YyUDl.gif" alt="Divider" width="400px">
+  
+  <br><br>
+  
+  <p>Drop me a note if you'd like to wander together for a while.</p>
+  
 </div>
