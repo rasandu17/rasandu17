@@ -1,10 +1,7 @@
-<div align="center">
+<h2>Hey there! 👋</h2>
 
-# Hey there!  
+<b>Ravindu Sandumith</b><br>
+<i>an Undergrad</i><br><br>
 
-**Ravindu Sandumith** — an undergrad  
+Curious? Try it out: <code>npx ravindu</code><br><br>
 
-Curious? Try it out:  
-<code>npx ravindu</code>
-
-</div>
