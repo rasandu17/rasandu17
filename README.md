@@ -1,21 +1,12 @@
-```
-// 🚀 Meet the Developer
+# Hi, I'm Ravindu Sandummith 👋
 
-function developer() {
-  return {
-    name: "Ravindu Sandummith",
-    code: [
-      "JavaScript",
-      "Python",
-      "Java",
-      "React",
-      "Node.js",
-      // ...and more!
-    ],
-    currentlyExploring: "🌐 New technologies that shape the future",
-    challenge: "⚡ Building something meaningful every day"
-  };
-}
+Undergraduate  
 
-// Let's build the future, one line at a time!
-```
+---
+
+## ⚡ Quick Access
+
+View my profile and download my CV directly in your terminal:
+
+```bash
+npx ravindu
