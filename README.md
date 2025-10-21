@@ -1,7 +1,4 @@
-<h2>Hey there! 👋</h2>
+# Hey there! 👋
 
-<b>Ravindu Sandumith</b><br>
-<i>an Undergrad</i><br><br>
-
-Curious? Try it out: <code>npx ravindu</code><br><br>
-
+I'm Ravindu Sandummith, an undergrad.  
+Curious? Run `npx ravindu` and see for yourself.
