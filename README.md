@@ -1,12 +1,12 @@
-# Hi, I'm Ravindu Sandummith 👋
+# 👋 Hey there!
 
-Undergraduate  
+**Ravindu Sandumith** — Undergraduate  
 
 ---
 
-## ⚡ Quick Access
+✨ Curious? Run `npx ravindu` and see for yourself.
 
-View my profile and download my CV directly in your terminal:
+---
 
-```bash
-npx ravindu
+📫 Find me online:  
+🌐 [Portfolio](https://ravindu.dev) | 🐙 [GitHub](https://github.com/ravindusandummith)
